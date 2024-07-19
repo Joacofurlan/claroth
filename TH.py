@@ -5,7 +5,7 @@ from st_aggrid import AgGrid, GridOptionsBuilder
 import os
 
 # Ruta local del archivo CSV
-file_path = 'C:/Users/EXT84286/OneDrive - AMX Argentina S.A/Documentos/Streamlit/th/Datos_reporteFB.csv'
+file_path = 'claroth/Datos_reporteFB.csv'
 
 @st.cache_data
 def cargar_datos(file_path):

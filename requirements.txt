@@ -1,2 +1,6 @@
-matplotlib
+streamlit
+plotly.express
+pandas
+st_aggrid
+
 
